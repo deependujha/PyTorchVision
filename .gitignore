@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+*DS_Store
 # C extensions
 *.so
 
@@ -158,3 +159,8 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+
+# ------- gitignore the files generated after running the notebooks -------
+
+01_basic_load_image_and_show/data/my_new_astronaut.jpg
