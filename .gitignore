@@ -165,4 +165,5 @@ cython_debug/
 
 01_basic_load_image_and_show/data/my_new_astronaut.jpg
 
-04_image_classification/MNIST-DIGIT/data
+04_image_classification/01_MNIST-DIGIT/data
+04_image_classification/02_CIFAR-10/data
