@@ -167,3 +167,4 @@ cython_debug/
 
 04_image_classification/01_MNIST-DIGIT/data
 04_image_classification/02_CIFAR-10/data
+04_image_classification/03_Custom_Image_classifier/data
